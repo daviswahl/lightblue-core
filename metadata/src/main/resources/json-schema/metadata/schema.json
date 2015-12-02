@@ -326,7 +326,7 @@
                         },
                         {
                             "description": "Reference field",
-                            "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/query-api/src/main/resources",
+                            "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/query-api/src/main/resources/",
                             "properties": {
                                "projection": {
                                     "$ref": "json-schema/projection/choice.json#/definitions/projection"
