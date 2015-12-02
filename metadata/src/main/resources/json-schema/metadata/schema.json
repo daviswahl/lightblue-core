@@ -315,15 +315,6 @@
                                 "versionValue": {
                                     "type": "string",
                                     "description": "The version of the entity"
-                                },
-                                "projection": {
-                                    "$ref": "/json-schema/projection/choice.json#/definitions/projection"
-                                },
-                                "query": {
-                                    "$ref": "/json-schema/query/choice.json#/definitions/query"
-                                },
-                                "sort": {
-                                    "$ref": "/json-schema/sort/choice.json#/definitions/sort"
                                 }
                             },
                             "additionalProperties": false,
