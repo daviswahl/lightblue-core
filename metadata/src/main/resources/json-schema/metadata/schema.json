@@ -14,6 +14,7 @@
         "along with this program.  If not, see <http://www.gnu.org/licenses/>."
     ],
     "$schema": "http://json-schema.org/draft-04/schema#",
+    "id" : "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/metadata/src/main/resources/json-schema/metadata/schema.json",
     "type": "object",
     "properties": {
         "name": {
@@ -331,6 +332,23 @@
                                 "entity",
                                 "versionValue"
                             ]
+                        },
+                        {
+                            "description": "Reference field",
+                            "id": "https://github.com/daviswahl/lightblue-core/tree/master/query-api/src/main/resources/",
+                            "properties": {
+                               "projection": {
+                                    "$ref": "#/json-schema/projection/choice.json#/definitions/projection"
+                                },
+                                "query": {
+                                    "$ref": "#/json-schema/query/choice.json#/definitions/query"
+                                },
+                                "sort": {
+                                    "$ref": "#/json-schema/sort/choice.json#/definitions/sort"
+                                }
+                            },
+                            "additionalProperties": false,
+                            "required": []
                         }
                     ]
                 }
