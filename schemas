@@ -11,6 +11,6 @@
     "id": "query-api/src/main/resources/json-schema/#"
   },
 
-  "foo": { "$ref": 'queryApiSchema' }
+  "foo": { "$ref": "metadata/schema.json" }
 
 }
