@@ -332,10 +332,10 @@
                                     "$ref": "json-schema/projection/choice.json#/definitions/projection"
                                 },
                                 "query": {
-                                    "$ref": "json-schema/query/choice.json#/definitions/query"
+                                    "$ref": "json-schema/projection/choice.json#/definitions/projection"
                                 },
                                 "sort": {
-                                    "$ref": "json-schema/sort/choice.json#/definitions/sort"
+                                    "$ref": "json-schema/projection/choice.json#/definitions/projection"
                                 }
                             },
                             "additionalProperties": false,
