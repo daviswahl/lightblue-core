@@ -9,5 +9,8 @@
 
   "queryApiSchema": {
     "id": "query-api/src/main/resources/json-schema/#"
-  }
+  },
+
+  "$ref": 'queryApiSchema'  
+
 }
