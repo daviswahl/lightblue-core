@@ -14,7 +14,6 @@
         "along with this program.  If not, see <http://www.gnu.org/licenses/>."
     ],
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "id" : "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/metadata/src/main/resources/json-schema/metadata/schema.json",
     "type": "object",
     "properties": {
         "name": {
