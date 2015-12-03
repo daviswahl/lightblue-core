@@ -23,7 +23,7 @@
             "type": "boolean"
         },
         "match": {
-            "$ref": "#json-schema/query/choice.json#/definitions/query"
+            "$ref": "json-schema/query/choice.json#/definitions/query"
         },
         "project": {
             "$ref": "choice.json#/definitions/projection"
@@ -32,7 +32,7 @@
             "$ref": "choice.json#/definitions/projection"
         },
         "sort": {
-            "$ref": "json-schema/sort/choice.json#"
+            "$ref": "#json-schema/sort/choice.json#"
         }
     },
     "required": [
