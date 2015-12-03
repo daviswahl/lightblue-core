@@ -15,7 +15,7 @@
 
   "definitions": {
     "schema" : {
-      "$ref": "schema"
+      "$ref": "#/metadata/schema"
     }
   }
 }
