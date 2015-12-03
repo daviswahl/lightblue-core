@@ -5,7 +5,7 @@
 
   "metadata": {
     "id": "/metadata/src/main/resources/json-schema/metadata/manifest.json",
-    "schema": { "$ref": "schema.json" }
+    "schema": { "id":"schema.json", "$ref": "schema.json" }
   },
 
 
