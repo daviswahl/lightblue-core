@@ -1,0 +1,8 @@
+{
+  "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/schemas#",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Provides absolute URIs to lightblue schemas for referencing elsewhere",
+  "metadata": {
+    "id": "metadata/src/main/resources/json-schema/metadata/#"
+  }
+}

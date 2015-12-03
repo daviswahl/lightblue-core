@@ -158,7 +158,7 @@
                     "description": "Indicates if the field is required.  Defaults to 'false'."
                 },
                 "reference": {
-                    "$ref": "common.json#/definitions/reference"
+                    "$ref": "https://github.com/daviswahl/lightblue-core/blob/master/metadata/src/main/resources/json-schema/metadata/common.json#/definitions/reference"
                 },
                 "matches": {
                     "type": "string",
