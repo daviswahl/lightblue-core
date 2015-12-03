@@ -15,8 +15,6 @@
   },
 
   "definitions" : {
-    "metadataSchema" : {
-    },
     "schema": { "$ref": "#/metadata/schema", "id":"schema#" }
   }
 }
