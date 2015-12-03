@@ -12,6 +12,6 @@
   },
 
   "definitions" : {
-    "foo": { "$ref": "#/metadata", "id":"schema.json#" }
+    "foo": { "$ref": "#/metadata/schema.json", "id":"schema#" }
   }
 }
