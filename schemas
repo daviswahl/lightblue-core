@@ -6,8 +6,9 @@
   "metadata": {
     "id": "metadata/src/main/resources/json-schema/metadata/#",
     "schema" { "id" : "#schema.json" },
-    "metadata" { "id" : "#metadata.json" } 
+    "metadata" { "id" : "#metadata.json" }
   },
+
 
   "queryApiSchema": {
     "id": "query-api/src/main/resources/json-schema/#"
@@ -15,7 +16,7 @@
 
   "definitions" : {
     "metadataSchema" : {
-    }
-    "schema": { "$ref": "#/metadata/schema.json", "id":"schema#" }
+    },
+    "schema": { "$ref": "#/metadata/schema", "id":"schema#" }
   }
 }
