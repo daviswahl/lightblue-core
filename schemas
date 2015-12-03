@@ -1,13 +1,11 @@
 {
-  "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/schemas#",
   "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/schemas#",
   "description": "Provides absolute URIs to lightblue schemas for referencing elsewhere",
 
   "metadata": {
-    "id": "metadata/src/main/resources/json-schema/metadata/manifest.json#",
-    "schema": { "$ref": "metadata/src/main/resources/json-schema/metadata/schema.json#" }
+    "$ref": "metadata/src/main/resources/json-schema/metadata/manifest.json#"
   },
-
 
   "queryApiSchema": {
     "id": "query-api/src/main/resources/json-schema/#"
