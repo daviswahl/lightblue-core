@@ -4,7 +4,7 @@
   "description": "Provides absolute URIs to lightblue schemas for referencing elsewhere",
 
   "metadata": {
-    "id": "/metadata/src/main/resources/json-schema/metadata/manifest.json",
+    "id": "/metadata/src/main/resources/json-schema/metadata/manifest.json#",
     "schema": { "$ref": "schema.json#" }
   },
 
