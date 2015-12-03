@@ -5,7 +5,7 @@
 
   "metadata": {
     "id": "metadata/src/main/resources/json-schema/metadata/#",
-    "schema": { "$ref": "#/1schema.json" },
+    "schema": { "$ref": "#/schema.json" }
   },
 
 
