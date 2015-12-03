@@ -11,10 +11,5 @@
 
   "queryApiSchema": {
     "id": "query-api/src/main/resources/json-schema/#"
-  },
-
-  "definitions" : {
-    "schema": { "$ref": "#/metadata/schema" },
-    "accessField": { "$ref": "#/metadata/schema/accessField"}
   }
 }
