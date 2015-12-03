@@ -11,5 +11,7 @@
     "id": "query-api/src/main/resources/json-schema/#"
   },
 
-  "foo": { "$ref": "#/metadata", "id":"schema.json#" }
+  "definitions" : {
+    "foo": { "$ref": "#/metadata", "id":"schema.json#" }
+  }
 }
