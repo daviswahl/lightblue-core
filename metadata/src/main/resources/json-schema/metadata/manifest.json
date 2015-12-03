@@ -1,6 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "id": "https://raw.githubusercontent.com/daviswahl/lightblue-core/master/metadata/src/main/resources/json-schema/metadata/manifest.json#",
-  "schema": { "$ref": "schema.json#" }
+  "schema": { "$ref": "schema.json#" },
+  "metadataSchema": { "$ref": "metadata.json#" },
 }
 
