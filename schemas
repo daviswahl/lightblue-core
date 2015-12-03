@@ -16,6 +16,6 @@
 
   "definitions" : {
     "schema": { "$ref": "#/metadata/schema" },
-    "accessField": { "$ref": "#/metadata/schema/accessField"}
+    "accessField": { "$ref": "schema/accessField"}
   }
 }
