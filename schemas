@@ -15,6 +15,6 @@
   },
 
   "definitions" : {
-    "schema": { "$ref": "#schema.json" }
+    "schema": { "$ref": "schema.json" }
   }
 }
